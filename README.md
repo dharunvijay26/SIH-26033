@@ -35,6 +35,8 @@ Benefits:
 
 1. Route Optimization:use mapping services and optimization algorithms to identify efficient delivery routes
 2. Security:Implement user authentication ,role based access,encrypted communication and secure payment processing
+![alt text](technical_approach.png.jpeg)
+
 
 ## Feasibility and Viability
 
