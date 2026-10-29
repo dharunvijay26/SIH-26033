@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Reference Number:
-## Name:
+## Reference Number:26019647
+## Name:Dharun Vijay RV
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,28 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+1. Develop a digital marketplace that directly connects farmers and Farmer Producer    Oraganisation(FPOs) with consumers,retailers,wholesalers,bulk buyers.
+2. Provide logistics support to arrange transportation and timely delivery of agricultural products
+3. Provide a secure online payment system and order tracking facility
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+1. Route Optimization:use mapping services and optimization algorithms to identify efficient delivery routes
+2. Security:Implement user authentication ,role based access,encrypted communication and secure payment processing
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+1. The system can be developed using existing web technologies and open source software
+2. Open source technologies reduce initial software development costs
+3. The platform can expand gradually to more farmers,locations and product categories
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+1. Better prices by selling directly to buyers, reduce dependence on middlemen,access to wider markets and more customers and improved crop planning through AI- based demand predictions
+2. reduced wastage of perishable agricultural products ,improved transportation and delivery efficiency,better coordination between farmers,buyers and transport providers and greater transparency in product pricing and availability
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. Food and Agriculture Oraganisation(FAO),website:fao.org
+   National Agriculture Market(e-NAM),website:enam.gov.in
